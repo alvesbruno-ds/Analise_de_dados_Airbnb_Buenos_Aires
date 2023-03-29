@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/alves-bruno-ds/data-science-BR/main/Airbnb-em-Buenos-Aires.jpg" >
 </p>
 
-Esse estudo teve por objetivo levantar insights sobre as características dos serviços oferecidos pelo Airbnb na capital angentina Buenos Aires. Para tanto, coletamos os dados da base da própria Airbnb em [Insider Airbnb](http://insideairbnb.com/), para a cidade escolhida e utilizamos de ferramentas de análise exploratória e estatística para chegar aos resultados.
+Esse estudo teve por objetivo levantar insights sobre as características dos serviços oferecidos pelo Airbnb na capital angentina Buenos Aires. Para tanto, coletei os dados da base da própria Airbnb em [Insider Airbnb](http://insideairbnb.com/), para a cidade escolhida e utilizei de ferramentas de análise exploratória e estatística para chegar aos resultados.
 Segue o passo a passo detalhado do estudo, bem como o link para o Notebook no Google Collab.
 
 
