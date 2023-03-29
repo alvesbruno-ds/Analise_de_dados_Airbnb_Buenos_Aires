@@ -15,6 +15,10 @@
 Esse estudo teve por objetivo levantar insights sobre as características dos serviços oferecidos pelo Airbnb na capital angentina Buenos Aires. Para tanto, coletamos os dados da base da própria Airbnb em [Insider Airbnb](http://insideairbnb.com/), para a cidade escolhida e utilizamos de ferramentas de análise exploratória e estatística para chegar aos resultados.
 Segue o passo a passo detalhado do estudo, bem como o link para o Notebook no Google Collab.
 
+
+[LINK DO PROJETO](https://github.com/alves-bruno-ds/Analise_de_dados_Airbnb_Buenos_Aires/blob/main/Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb)
+
+
 Qualquer dúvida, fico a dsposição em meus canais de contato!
 Obrigado
 
