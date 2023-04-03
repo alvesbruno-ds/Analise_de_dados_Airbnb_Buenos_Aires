@@ -16,7 +16,7 @@ Esse estudo teve por objetivo levantar insights sobre as características dos se
 Segue o passo a passo detalhado do estudo, bem como o link para o Notebook no Google Collab.
 
 
-[LINK DO PROJETO](https://github.com/alves-bruno-ds/Analise_de_dados_Airbnb_Buenos_Aires/blob/main/%5BTemplate_BR%5D_Analisando_os_Dados_do_Airbnb_Buenos_Aires_rev_01.ipynb)
+[LINK DO PROJETO](https://github.com/alves-bruno-ds/Analise_de_dados_Airbnb_Buenos_Aires/blob/main/Rev.01%20-%20Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb)
 
 
 Qualquer dúvida, fico a dsposição em meus canais de contato!
